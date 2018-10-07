@@ -86,6 +86,7 @@ ________________________________________________________________________________
 and parent be affected by it?
 ---------------------------------------------------------------------------------
 Flags used: CLONE_FS
+
 If CLONE_FS is set, the caller and the child process share the
               same filesystem information.  This includes the root of the
               filesystem, the current working directory, and the umask.  Any
