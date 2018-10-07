@@ -26,8 +26,10 @@ Commands from a file can be redirected into tshell as follows:
 
 There is also sample 'hello world' C program that you can try to run on the tiny shell:
 
- > make hello - compiles the sample C program 
- > make hello_seg - compiles the crashing version of the above 
+ > make hello < Compiles the sample C program 
+ 
+ > make hello_seg 
+ Compiles the crashing version of the above 
 
 
 ________________________________________________________________________________
