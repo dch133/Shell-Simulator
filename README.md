@@ -1,8 +1,9 @@
 # Tiny-Shell
 Small Shell that uses Fork, VFork, Clone, and Piping to execute system commands
 
-COMP310-Operating Systems	REPORT
-Daniel Chernis 260707258
+By Daniel Chernis
+
+# REPORT
 ________________________________________________________________________________
 Compiling and Running the tiny Shell
 ________________________________________________________________________________
