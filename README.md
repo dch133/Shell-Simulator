@@ -39,6 +39,8 @@ clone():	3177079 nanosec; 0536986 nanosec; 399556 nanosec
 
 system():	2046151 nanosec; 0945451 nanosec; 897779 nanosec
 
+---------------------------------------------------------------------------------
+
 This is an average time. At different execution iterations, some of these outperform others for specific commands.
 
 vfork() and system() seem to be the fastest in general. vfork() is more space efficient compared to fork().
