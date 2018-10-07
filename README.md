@@ -13,8 +13,10 @@ All except for FIFO do not take command line arguments.
 
 Running tiny-shell (generally): 
 > ./tshell
+
 Running tiny-shell (FIFO): 
 > ./tshell  <PIPE_NAME> <MODE>		
+ 
 Where MODE WRITING = '1' and MODE READING = '0' 
 
 *Note on FIFO (First in First Out - Named Pipe): Need 2 terminals (one for reading and one for writing) 
