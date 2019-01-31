@@ -16,7 +16,7 @@ Running tiny-shell (generally):
 > ./tshell
 
 Running tiny-shell (FIFO): 
-> ./tshell  <PIPE_NAME> <MODE>		
+> ./tshell  <PIPE_NAME> < MODE >		
  
 Where MODE WRITING = '1' and MODE READING = '0' 
 
